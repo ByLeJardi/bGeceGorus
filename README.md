@@ -1,0 +1,1 @@
+Eklenti şahsım tarafından hazırlanıp derlenmiştir tüm hakları saklıdır. Ücretsiz paylaşılmıştır. Kopyalanması ve ücret karşılığı satılması yasaktır. Paylaşılma ve kopyalanması durumunda hukuki işlem başlatılacaktır. 
