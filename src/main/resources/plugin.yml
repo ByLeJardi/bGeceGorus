@@ -1,0 +1,10 @@
+name: bGeceGorus
+main: com.bGeceGorus.bGeceGorus
+version: 1.0
+api-version: 1.16
+
+# Varsayılan config.yml dosyası
+config:
+  night-vision-duration: 999999 # Süre saniye cinsindendir, sonsuz için çok yüksek bir değer kullanılır
+  night-vision-amplifier: 0 # Gece görüşü etkisinin seviyesi
+  night-vision-message: "&aSınırsız gece görüşü aktifleştirildi!"
